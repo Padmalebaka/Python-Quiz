@@ -12,4 +12,4 @@ This is a PYTHON project for creating and playing 'QUIZ' games.Users can test th
 1.Python 3.x
 2.colorama (for colored output)
 3.Installation
-4.Clone the repository:
+4.Clone the repository
