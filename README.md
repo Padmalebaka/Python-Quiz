@@ -2,14 +2,14 @@
 This is a PYTHON project for creating and playing 'QUIZ' games.
 
 # Features
-Multiple-choice questions
-Randomized question order
-Score tracking
-Category selection
-User-friendly interface
+1.Multiple-choice questions
+2.Randomized question order
+3.Score tracking
+4.Category selection
+5.User-friendly interface
 
 # Requirements
-Python 3.x
-colorama (for colored output)
-Installation
-Clone the repository:
+1.Python 3.x
+2.colorama (for colored output)
+3.Installation
+4.Clone the repository:
